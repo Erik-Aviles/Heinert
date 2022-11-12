@@ -15,5 +15,8 @@
     "url": "https://github.com/IngEka/Heinert/issues"
   },
   "homepage": "https://github.com/IngEka/Heinert#readme",
-  "description": ""
+  "description": "", 
+   "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
